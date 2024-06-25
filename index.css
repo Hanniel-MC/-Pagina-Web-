@@ -1,0 +1,43 @@
+
+
+
+nav{
+
+background: rgb(34,193,195);
+background: linear-gradient(112deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+
+}
+
+
+.card{
+	margin: 50px;
+	background-color:red;
+	box-shadow: 13px 15px 4px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 13px 15px 4px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 13px 15px 4px 0px rgba(0,0,0,0.75);
+}
+
+
+main{
+	background: rgb(12,107,18);
+background: linear-gradient(185deg, rgba(12,107,18,0.9243346997001926) 42%, rgba(227,255,0,1) 100%);
+}
+
+section{
+border:2px solid black;
+padding:60px ;
+
+
+}
+
+footer{
+transformar: traducir(-12px,-68px);
+-webkit-transform: traducir(-12px,-68px);
+-moz-transform: traducir(-12px,-68px);
+
+}
+
+#Editar{
+font-family: sans-serif;
+font-family: Elephant; 7.8pt; style=Bold;
+}
